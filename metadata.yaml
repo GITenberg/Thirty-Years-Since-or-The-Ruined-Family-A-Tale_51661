@@ -1,5 +1,5 @@
 _repo: Thirty-Years-Since-or-The-Ruined-Family-A-Tale_51661
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -8,8 +8,13 @@ contributor:
     gutenberg_agent_id: '1301'
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: '"This work was published many years ago anonymously, and received the
   name of ''Delaware; or, The ruined family.''"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51661#Thirty-Years-Since-or-The-Ruined-Family-A-Tale
 gutenberg_issued: '2016-04-05'
 gutenberg_type: Text
 identifiers:
